@@ -1,3 +1,38 @@
 body {
-    background: blue;
+    background: white;
+    text-align: center;
+    color: red;
   }
+  h1{
+    font-weight: bold;
+  }
+  h2{
+    font-weight: bold;
+    font-style: oblique;
+  }
+h3 {
+   text-align: left;
+   font-weight: bold;
+   color: blue
+}
+p {
+    color: black;
+    text-align: left;
+}
+ul {
+    text-align: left;
+    color: black;
+}
+h4 {
+    text-align: left;
+    color: blue;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+img[alt='Ari']{
+  width: 500px;
+  height: 400px;
+}
